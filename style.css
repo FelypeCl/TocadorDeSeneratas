@@ -98,6 +98,6 @@
 
 @media only screen and (max-width: 600px) {
     #video {
-      transform: scale(80%);
+      transform: scale(60%);
     }
   }
